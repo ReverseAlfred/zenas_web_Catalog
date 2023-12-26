@@ -1,3 +1,2 @@
 # requirements.txt
-pip install snowflake-connector-python
-snowflake_connector_python==3.11
+snowflake_connector_python
