@@ -2,5 +2,6 @@ import streamlit
 
 streamlit.title('My parents New Healthy Diner')
 
-import snowflake.connector
+import snowflake as sf
+from snowflake import connector
 
